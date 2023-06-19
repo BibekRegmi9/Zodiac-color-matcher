@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 30px;
+    color: black;
+    padding: 10px;
+    
+}
+
+
+select, button {
+    text-align: center;
+    background-color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 30px;
+    color: white;
+    padding: 10px;
+    border: none;
+    outline-color: none;
+    cursor: pointer;
+}
